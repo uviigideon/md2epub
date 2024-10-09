@@ -1,5 +1,5 @@
 # inspire by
-[Alex S.](https://github.com/alexthe2nd/markdown-to-epub)
+[Alex S. project https://github.com/alexthe2nd/markdown-to-epub](https://github.com/alexthe2nd/markdown-to-epub)
 
 # md2epub
 Shell script for converting markdown documents to epub. 
